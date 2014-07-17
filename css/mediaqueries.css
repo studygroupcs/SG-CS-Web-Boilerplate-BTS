@@ -1,0 +1,5 @@
+/* [sass, assets/stylesheets, mediaqueries.scss] */
+@media (max-width: 767px) {
+  /* line 4, /Users/kdomingo/OneDrive/GITHUB-CLONE/SG-CS-Web-Boilerplate-BTS/assets/stylesheets/mediaqueries.scss */
+  .go {
+    color: #ccc; } }

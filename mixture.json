@@ -1,0 +1,26 @@
+{
+  "convertHtml": {
+    "relativePaths": false
+  },
+  "debug": true,
+  "domain": null,
+  "lintScripts": false,
+  "modelSource": null,
+  "preprocessorLocations": [
+    "assets"
+  ],
+  "preprocessorScriptOutput": "js",
+  "preprocessorStyleOutput": "css",
+  "projectDescription": "Bootstrap in SASS",
+  "projectName": "Creative Services Startet Kit",
+  "publishedId": null,
+  "reload": 0,
+  "serverHostname": null,
+  "serverPort": null,
+  "simpleModePartnerServer": null,
+  "templateDefaultLayout": "layout",
+  "templateDefaultPage": "index",
+  "templateDirectory": "templates",
+  "type": "mixture",
+  "useCompass": false
+}
